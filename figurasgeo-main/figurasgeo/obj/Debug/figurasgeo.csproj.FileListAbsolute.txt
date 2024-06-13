@@ -1,0 +1,10 @@
+C:\figurasgeo-main\figurasgeo\obj\Debug\figurasgeo.csproj.AssemblyReference.cache
+C:\figurasgeo-main\figurasgeo\obj\Debug\figurasgeo.Form1.resources
+C:\figurasgeo-main\figurasgeo\obj\Debug\figurasgeo.Properties.Resources.resources
+C:\figurasgeo-main\figurasgeo\obj\Debug\figurasgeo.csproj.GenerateResource.cache
+C:\figurasgeo-main\figurasgeo\obj\Debug\figurasgeo.csproj.CoreCompileInputs.cache
+C:\figurasgeo-main\figurasgeo\bin\Debug\figurasgeo.exe.config
+C:\figurasgeo-main\figurasgeo\bin\Debug\figurasgeo.exe
+C:\figurasgeo-main\figurasgeo\bin\Debug\figurasgeo.pdb
+C:\figurasgeo-main\figurasgeo\obj\Debug\figurasgeo.exe
+C:\figurasgeo-main\figurasgeo\obj\Debug\figurasgeo.pdb
